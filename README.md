@@ -1,6 +1,6 @@
 ## **Выбранный язык**
 
-***Elixir***
+`Elixir`
 
 ## **Обоснование**
 
@@ -21,14 +21,12 @@ Pinterest и еще многих других. А это уже показате
 различные мощные инструменты для разработки, например, макросы, которые позволяют избежать некоторые проблемы Erlang и добавить
 гибкости в разработке.
 
----
 
 ## **Соображение по 4 лабораторной работе**
 
 1. **Торрент клиент**
 2. Telegram application(не бот, а именно приложение)
 
----
 
 ## **Инструменты**
 
@@ -36,16 +34,13 @@ Pinterest и еще многих других. А это уже показате
 - Средства форматирования и линтинга: Creado и Mix как форматер
 - Тестирование: ExUnit, он является частью стандартной библиотеки
 
----
-
 ## **Книга**
 
 Elixir in action
-
 Автор: Saša Jurić
 
-## Материалы прочтенные
+## Материалы
 
-1. [The Soul of Erlang and Elixir • Sasa Juric • GOTO 2019](https://www.youtube.com/watch?v=JvBT4XBdoUE&ab_channel=GOTOConferences)
-2. Elixir in action(книга)
-3. [Документация](https://elixir-lang.org/docs.html)
+1. [The Soul of Erlang and Elixir • Sasa Juric • GOTO 2019](https://www.youtube.com/watch?v=JvBT4XBdoUE&ab_channel=GOTOConferences).
+2. Elixir in action(книга).
+3. [Документация](https://elixir-lang.org/docs.html).
